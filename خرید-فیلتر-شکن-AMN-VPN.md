@@ -1,6 +1,6 @@
 # جهت خرید فیلترشکن اینجا کلیک کنید [amnas.site](https://amnas.space/)
 
-![amn vpn](https://amnas.space/wp-content/uploads/2023/09/AMNVPN-LOGO.jpg)
+![AMN VPN](https://amngroup1.space/wp-content/uploads/2023/09/AMNBANER3-1024x913.gif)
 
 ## 1- تحویل آنی بلافاصله بعد خرید ✅
 
