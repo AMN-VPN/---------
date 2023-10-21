@@ -1,13 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11382612533">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-11382612533');
-</script>
 # جهت خرید فیلترشکن اینجا کلیک کنید [amnas.site](https://amnas.space/)
 
 ![AMN VPN](https://amngroup1.space/wp-content/uploads/2023/09/AMNBANER3-1024x913.gif)
